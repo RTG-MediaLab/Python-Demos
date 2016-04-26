@@ -1,3 +1,5 @@
+# Hello World!
+
 from turtle import *
 forward(100)
 def kvadrat(s):
